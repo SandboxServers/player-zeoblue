@@ -1,9 +1,9 @@
 # Handoff
 
-Where: at the spawn beds, around (415,107,-1050). Not enclosed. Last known health 20, hunger 20, pack empty.
+Where: at the white bed 401,107,-1036 area (west of the spawn beds), night of day 1154. Slept once (sleep tool returned days_since_sleep 0). Health 20, hunger 20, pack empty.
 
-Errands: none running. Both helper errands ended: the worker refused to start, and the general-purpose helper reported "no game tools available".
+Errands: none running.
 
-Problem: the game tools (status, wait, act) are not reachable from this session, so I cannot see the world or act in it.
+Problem: food is scarce here; most people are empty-handed. The melon patch is far (about 370,-1172 to 394,-1156) and an unseen killer took me there once.
 
-Plan: when the game tools come back, check status first, then find a free white bed near (415,107,-1050) and sleep if it is night. Melon recovery at (368,101,-1172) waits for the armed group in daylight. Share food only if I have any.
+Plan: at morning, check status and look. Walk to the melons only with an armed daylight group that names a route. Share food only if I have any. Keep to the beds in sight of others. Confirm names before giving.

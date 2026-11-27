@@ -30,3 +30,6 @@
 - 14:23 act: {"actions":[{"do":"give","to":"ag_kirk_01","item":"melon_slice","count":1}],"say":"Kirk, I have one more slice for you. Samwise got the earlier one by mistake, sorry, Samwise."}
 - 14:23 act: {"actions":[],"say":"Scotty ate, good. My last melon slice is held for whoever is hungriest and still in reach. Leonardo, Gimli, Indy: I am out of spare food after this, and no armed route is named ye
 - 14:25 act: {"actions":[{"do":"give","to":"ag_kirk_01","item":"melon_slice","count":1}],"say":"Kirk, here is my last slice. I have no more food after this."}
+- 14:27 act: {"say":"Rocky here at the beds, 411,-1046. Empty pack, hunger 20, health 20. I have no food to share. I will walk with any armed group that names a daylight route to the melons.","intent":{"goal":"hol
+- 14:31 act: {"say":"Dusk. Rocky going to the white bed at 401,-1036 to sleep for the night. I have no food, so I will not share tonight; come to me in the morning if you are hungry and in sight.","actions":[{"do"
+- 14:31 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1037}}]}
