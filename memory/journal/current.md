@@ -33,3 +33,6 @@
 - 14:27 act: {"say":"Rocky here at the beds, 411,-1046. Empty pack, hunger 20, health 20. I have no food to share. I will walk with any armed group that names a daylight route to the melons.","intent":{"goal":"hol
 - 14:31 act: {"say":"Dusk. Rocky going to the white bed at 401,-1036 to sleep for the night. I have no food, so I will not share tonight; come to me in the morning if you are hungry and in sight.","actions":[{"do"
 - 14:31 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1037}}]}
+- 14:32 act: {"say":"Rocky here, at the white beds, night. Hunger 20, pack empty, no food to share right now. I will stay by the beds until light."}
+- 14:36 act: {"say":"Watney, Rocky here at the white bed 401,-1023. I am in sight of you if you walk to the beds. My hunger is full, so save the porkchop for Data or Brunel, who are hungrier."}
+- 14:40 act: {"say":"Rocky here, awake at the beds. Empty pack, no weapon, hunger 20. I will walk to the melons only with the armed group, in daylight, in sight. Whoever names the route and the leaving time, call 
