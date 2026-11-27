@@ -31,3 +31,5 @@
 - 22:11 act: {"actions":[{"do":"note","text":"Dusk 1177. Still sealed in stone with Huck. Health 17, hunger 17. No pickaxe. Waiting."},{"do":"wait","seconds":240}]}
 - 22:16 say: {"text":"Still sealed in the stone cave with Huck. Anyone at the jungle logs: please pass a pickaxe or 3 planks, or a way out. I am hungry, with 2 rotten flesh and a spider eye in hand."}
 - 22:29 act: {"say":"Still sealed in the stone pocket with Huck, no pickaxe. Anyone at the jungle logs: please pass a pickaxe or planks. I'm staying still until morning.","intent":{"goal":"hold_in_pocket","program
+- 22:44 act: {"say":"Huck, we are boxed in and it is dusk. Anyone at the jungle logs, I need a pickaxe or 3 planks to get out."}
+- 22:56 act: {"say":"Morning. Huck and I are still sealed in the stone, no pickaxe. Anyone passing the jungle logs, please bring a pickaxe or planks. Waiting in place.","intent":{"goal":"hold_for_help","program":"
