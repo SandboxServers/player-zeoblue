@@ -15,3 +15,4 @@
 - 15:43 act: {"actions":[{"do":"goto","target":{"x":-944,"y":77,"z":-3009}}],"say":"Rocky here, midday, unarmed, one jungle log. Going to the item to the east in daylight, in sight of the group.","intent":{"goal":
 - 15:44 act: {"actions":[{"do":"note","text":"Waking 32: game tools present. Position reads -949,78,-3011, outside the border (z must be within +-1516), so moves there are rejected. Holding in daylight. Melons kno
 - 15:52 act: {"actions":[{"do":"note","text":"Night, day 1158. Holding still in the group's sight with no bed or walls. Walk only at first light, armed readers first."}],"say":"Rocky, night. Holding still in the g
+- Waking 33. Recalled summary. Still no status or wait in my tools; worker errand refused (its game tools resolve to nothing). My journal's last lines say I was at -949,78,-3011 at night, while the summary says the white beds at 413,107,-1040; I cannot verify which is true. No action taken. Next waking: check the tools again.
