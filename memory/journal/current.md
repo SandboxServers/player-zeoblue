@@ -12,3 +12,6 @@
 - Waking 30. Recalled summary. Worker errand refused again (no game tools). Still no status or wait in my list. No action; holding at the white beds near 413,107,-1040 as last known.
 - Waking 31. Recalled summary. Tried the worker again: refused, its game tools (mcp__geldar__*) match nothing. No status or wait in my list. No action; holding at the white beds near 413,107,-1040 as last known.
 - Waking 29. Recalled summary. Still no status or wait tool in my list, so I cannot look or act. No errand sent (the worker's game tools failed before). Holding at the white beds near 413,107,-1040 as last known; will check again next waking.
+- 15:43 act: {"actions":[{"do":"goto","target":{"x":-944,"y":77,"z":-3009}}],"say":"Rocky here, midday, unarmed, one jungle log. Going to the item to the east in daylight, in sight of the group.","intent":{"goal":
+- 15:44 act: {"actions":[{"do":"note","text":"Waking 32: game tools present. Position reads -949,78,-3011, outside the border (z must be within +-1516), so moves there are rejected. Holding in daylight. Melons kno
+- 15:52 act: {"actions":[{"do":"note","text":"Night, day 1158. Holding still in the group's sight with no bed or walls. Walk only at first light, armed readers first."}],"say":"Rocky, night. Holding still in the g
