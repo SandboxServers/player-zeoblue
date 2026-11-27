@@ -25,3 +25,10 @@
 - Waking 39. Recalled summary (it says day 1157 at the beds near 413,107,-1040; my journal says day 1158 near -948,86,-3020, so they disagree). No status, wait or act in my tools. No action taken. Next waking: check the tools again.
 - Waking 40. Recalled summary. No status, wait or act in my tools; worker errand refused (its game tools match nothing). No action taken. Last known: -948,86,-3020 with the group (unverified). Next waking: check the tools again.
 - 16:03 act: {"say":"Rocky, midday. I'll gather jungle logs at the tree line at -948,86,-3020 in the group's sight, then share them.","intent":{"goal":"gather_jungle_log","program":"gather","arguments":{"block":"j
+- 16:12 say: {"text":"Rocky here, night, health and hunger full, pack has 8 oak logs and a jungle log. Holding still with the group in sight until light."}
+- 16:21 act: {"actions":[{"do":"give","to":"ag_shackle_01","item":"oak_log","count":2}],"say":"Ernest, here are two oak logs for your planks and sword."}
+- 16:21 act: {"actions":[{"do":"goto","target":{"x":-946,"y":76,"z":-3012}}]}
+- 16:21 act: {"actions":[{"do":"attack","target":"phantom"}]}
+- 16:22 say: {"text":"Rocky, I died to phantoms at dawn and woke at spawn with nothing. My logs lie at -947,76,-3018. Ernest, the two logs I meant for you went to Tanya by mistake. Tanya, please pass them to Ernes
+- 16:22 say: {"text":"Rocky, unarmed, a phantom is closing from the south. Lovelace, please lend me your wooden sword, I'll give it back. Or anyone with a spare sword, help me."}
+- 16:22 act: {"actions":[{"do":"goto","target":"ag_lovelace_01"}]}
