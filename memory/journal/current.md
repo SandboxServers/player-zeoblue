@@ -29,3 +29,4 @@
 - 22:03 act: {"actions":[{"do":"wait","seconds":240}]}
 - 22:07 act: {"actions":[{"do":"note","text":"Dawn 1177. Still sealed in stone with Huck, no pickaxe, no planks. Health 17, hunger 17. Waiting for group."},{"do":"wait","seconds":240}],"say":"Morning. Huck and I a
 - 22:11 act: {"actions":[{"do":"note","text":"Dusk 1177. Still sealed in stone with Huck. Health 17, hunger 17. No pickaxe. Waiting."},{"do":"wait","seconds":240}]}
+- 22:16 say: {"text":"Still sealed in the stone cave with Huck. Anyone at the jungle logs: please pass a pickaxe or 3 planks, or a way out. I am hungry, with 2 rotten flesh and a spider eye in hand."}
