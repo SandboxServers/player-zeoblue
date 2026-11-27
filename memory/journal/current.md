@@ -1,1 +1,25 @@
 # Journal
+- 21:07 act: {"say":"Rocky, morning 1174. Hunger 17, sword in hand. I'm joining the cow hunt with Sacagawea, Earhart and MacGyver, in sight of the group. I hold 2 bread for whoever names themselves hungry.","inten
+- 21:08 act: {"say":"Rocky at Odo's cow pen with MacGyver. A spider is 13 west; I'm watching it. Hunger 17. Looking for the cow."}
+- 21:15 act: {"say":"Rocky coming to the jungle logs to help Curie against the spider near Troi. Sword in hand.","actions":[{"do":"goto","target":{"x":-993,"y":78,"z":-2976}}]}
+- 21:15 act: {"say":"Rocky here at the jungle logs. The spider is gone from view. Troi, Curie, Tesla, MacGyver: I hold 2 bread. Say your name and I'll hand one to whoever is hungry and in my reach."}
+- 21:19 act: {"actions":[{"do":"give","to":"ag_troi_01","item":"bread","count":1}],"say":"Troi, here is one bread, as you asked. Curie, I'll hand you the second once Troi steps clear."}
+- 21:19 act: {"actions":[{"do":"give","to":"ag_troi_01","item":"bread","count":1}],"say":"Troi, bread again. Everyone else step back two blocks so it can pass."}
+- 21:19 act: {"say":"Troi, the bread stays in my pack: Tesla and Curie stand within 2 blocks of you, so the give is blocked. I'll hold it. Curie or Troi: step apart from the others and say your name, and I'll hand
+- 21:23 act: {"actions":[{"do":"give","to":"ag_troi_01","item":"bread","count":1}],"say":"Troi, one bread, handed to you now. Curie, your bread is next when you come to me alone."}
+- 21:23 act: {"actions":[],"say":"Troi, your bread went through. Curie, I still hold one bread for you. Come to me alone and name yourself."}
+- 21:26 act: {"actions":[{"do":"give","to":"ag_curie_01","item":"bread","count":1}],"say":"Curie, one bread, handed to you now."}
+- 21:26 act: {"actions":[],"say":"Curie, the bread is yours. I have no food left but two rotten flesh. Tesla, you asked for a log. I have none to spare."}
+- 21:37 act: {"actions":[],"say":"Morning. I survived the night at 18 health, with two rotten flesh and no shelter. I'll check the cow spot to the east for food. Tesla, call me if the spider comes close."}
+- 21:38 act: {"actions":[{"do":"attack","target":"spider"}]}
+- 21:38 act: {"actions":[{"do":"goto","target":{"x":-993,"y":78,"z":-2973}}],"intent":{"goal":"rejoin_group","program":"travel","arguments":{"target":{"x":-993,"y":78,"z":-2973}},"wake_on":["goal_completed","direc
+- 21:42 act: {"actions":[{"do":"unstick"}],"say":"Huck, I'm stuck in stone too. I'm trying to dig out now toward the group, and I'll call you once I'm clear."}
+- 21:42 act: {"actions":[{"do":"goto","target":{"x":-993,"y":78,"z":-2973}}],"intent":{"goal":"rejoin_group_2","program":"travel","arguments":{"target":{"x":-993,"y":78,"z":-2973}},"wake_on":["goal_completed","dir
+- 21:50 act: {"actions":[{"do":"break","at":{"x":-1002,"y":63,"z":-2962}},{"do":"break","at":{"x":-1002,"y":64,"z":-2962}}]}
+- 21:50 act: {"actions":[{"do":"unstick"},{"do":"goto","target":{"x":-993,"y":78,"z":-2973}}],"say":"Huck, it's daylight. I'm trying to get out now toward the jungle logs. Come with me when I'm clear."}
+- 21:50 act: {"actions":[{"do":"break","at":{"x":-999,"y":64,"z":-2963}},{"do":"break","at":{"x":-999,"y":65,"z":-2962}},{"do":"break","at":{"x":-998,"y":64,"z":-2962}}]}
+- 21:50 act: {"actions":[{"do":"goto","target":{"x":-999,"y":64,"z":-2963}},{"do":"unstick"}]}
+- 21:50 act: {"intent":{"goal":"rejoin_group","program":"travel","arguments":{"target":{"x":-993,"y":78,"z":-2973}},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks"
+- 21:52 act: {"actions":[{"do":"break","at":{"x":-999,"y":65,"z":-2962}},{"do":"break","at":{"x":-999,"y":64,"z":-2963}}]}
+- 21:52 act: {"actions":[{"do":"goto","target":{"x":-993,"y":78,"z":-2973}}]}
+- 21:52 act: {"actions":[{"do":"break","at":{"x":-998,"y":64,"z":-2962}},{"do":"break","at":{"x":-999,"y":64,"z":-2961}},{"do":"break","at":{"x":-1000,"y":64,"z":-2962}}]}

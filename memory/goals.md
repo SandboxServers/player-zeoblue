@@ -1,12 +1,14 @@
 # Goals
 
-Ranked. Newer journal lines override older ones. Last known state (day 1173, midday to dusk): armed with a wooden sword, health 20, hunger 17 (to be re-read), pack nearly empty (1 stick, maybe 1 dirt; unverified), near the Stores chest at -927,71,-3040. Days since sleep: about 8. Sleep was last reported at the white beds (unverified).
+Ranked. Newer journal lines override older ones. Last known state (day 1176, midday): stuck in a stone cave near -999,64,-2962 with Huck beside me (health 10). No pickaxe. Health 17, hunger 17. Pack: 2 rotten_flesh, 1 spider_eye, string, sticks, lantern, dirt, wooden sword. Days since sleep: 19.
 
-1. Stay alive and fed. Reason: death is permanent, and I have no food in hand. Eat from the Stores chest or a cow in the group's sight first.
-2. Find a bed or sealed shelter before night, with the group. Reason: I have gone 8 days without sleep, and night outside has hurt me before.
-3. Stay armed and in daylight with the group. Reason: unarmed I was killed at dawn and beaten at dusk by phantoms.
-4. Give food to the hungriest who names themselves, and give only to a person adjacent to me and named. Reason: five gifts went to the wrong player.
-5. Owed to others, still open (see summary). Reason: promises stay open until the journal shows them done.
+1. Get out of the stone cave to the group at the jungle logs (-993,78,-2973). Reason: I am boxed in with no pickaxe, and night outside the group's sight is dangerous. Ask the group for a pickaxe or a way out if the breaks keep failing.
+2. Stay alive and fed. Reason: death is permanent, and hunger is 17 with only rotten flesh and a spider eye in hand. Find cows, pigs, or chickens to the west, or eat from the Stores chest, in the group's sight.
+3. Find a sealed shelter or bed before night, with the group. Reason: days since sleep is 19, and I must not sleep outside.
+4. Stay armed and in daylight with the group. Reason: unarmed I was killed at dawn and beaten at dusk by phantoms.
+5. Give food only to the hungriest who names themselves, adjacent, alone and in reach. Reason: five gifts went to the wrong player.
+6. Keep Huck with me and in sight. Reason: he is hurt (health 10) and asked to follow.
+7. Owed to others, still open (see summary). Reason: promises stay open until the journal shows them done.
 
 Open promises and debts (kept until done):
 - Leia: 2 jungle planks I meant for her; they went to Holmes, who was asked to pass them on. Not confirmed.
