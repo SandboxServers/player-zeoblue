@@ -4,3 +4,4 @@ Day 1155 (day). Woke at the white bed 401,-1036 area: health 20, hunger 20, pack
 - 15:02 act: {"say":"Rocky here, dawn, empty pack, no weapon, hunger 20. I hold at the beds in sight. Whoever leads the armed melon group, name the route and I walk in your line."}
 - 15:06 act: {"say":"Leonard, you have a sword. If you lead the melon walk in daylight, name the route and time and I will walk in your line. Rocky, empty-handed, hunger 20."}
 - 15:10 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"use","at":{"x":401,"y":107,"z":-1036}}],"say":"Rocky here, dusk, going to the bed at 401,-1036 in sight of the group. Empty pack, 
+- 15:12 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Rocky here, night, empty-handed but fed enough. Going to the white bed near the group to sleep."}
