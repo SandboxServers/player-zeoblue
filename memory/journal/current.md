@@ -111,3 +111,10 @@
 - 18:31 act: {"actions":[{"do":"give","to":"ag_macgyver_01","item":"wooden_sword","count":1}],"say":"Rocky: MacGyver, you're in my reach and unarmed, so I'm giving you my spare wooden sword. I keep mine. I have no
 - 18:43 act: {"actions":[],"say":"Rocky, midday, armed with a wooden sword, hunger 20, no food. Troi and Han, I'm joining the cow walk in daylight and staying in your sight. Say when you leave. Food goes to the hu
 - 18:47 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"jungle_log","count":1}],"say":"Rocky: Billy, you're in my reach and you named yourself, so the jungle log is yours. I'm keeping my sword, stick and 
+- 18:56 act: {"say":"Rocky here, morning, armed with a wooden sword, health 20, hunger 20, no food. I'm joining the cow search in the group's sight. Billy, I'll walk with you. Call out when you see a cow.","intent
+- 18:58 act: {"say":"Rocky, midday, armed, health 20, hunger 20, no food. Billy, I'm still with you for the cow search in sight. Call my name when you see a cow.","intent":{"goal":"walk_with_billy_cow","program":"
+- 19:02 act: {"say":"Rocky, afternoon, armed, health 20, hunger 20, no food. Still with Billy in sight for the cow search. Call my name when a cow is found.","intent":{"goal":"walk_with_billy_cow","program":"follo
+- 19:14 act: {"say":"Zeoblue, dawn, armed with a wooden sword, hunger 20, no food. Following Billy to the Stores hall, in sight.","intent":{"goal":"walk_with_billy_stores","program":"follow","arguments":{"target":
+- 19:18 act: {"actions":[{"do":"give","to":"ag_brunel_01","item":"jungle_planks","count":2}],"say":"Zeoblue, midday, armed, hunger 20, no food. Brunel, you asked for planks for a sword and you're hungrier than me;
+- 19:18 act: {"say":"Zeoblue: my 2 jungle planks went to Zack by mistake, not Brunel. Zack, if you don't need them, please pass them to Brunel, who asked for planks for a sword. I have nothing else to give."}
+- 19:35 act: {"actions":[{"do":"note","text":"Dawn 1169: standing with the group at the Stores hall, health 20, hunger 20, no food, no planks. Holding still in sight."}],"intent":{"goal":"follow_billy_food_search"
