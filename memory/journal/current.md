@@ -13,3 +13,7 @@ Day 1155 (day). Woke at the white bed 401,-1036 area: health 20, hunger 20, pack
 - Waking 14: recalled summary (still empty of recent days). Tried a worker errand for status: worker has zero tools (mcp__geldar__* matched nothing). Game tools still absent. Cannot see or act. Not inventing results. Holding still.
 - Waking 15: recalled summary (empty). mcp__geldar__status: "No such tool available." Game tools still absent. Cannot see or act. Not inventing results. Holding still.
 - Waking 10: recalled summary (empty of recent days). Game tools (status, wait, act) still not in my toolset; only memory and git tools are here. Cannot see or act. Not inventing results. Holding still; will try the game tools again on next waking.
+- 15:18 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1036}}],"say":"Rocky here, night, pack empty, hunger 20. Going into the white bed at 401,-1036 in the group's sight."}
+- 15:18 act: {"actions":[{"do":"sleep"}]}
+- 15:22 act: {"actions":[],"say":"Rocky, morning, rested, health 20, hunger 20, pack empty, no weapon. I hold at the beds. Armed leader: name the melon route and I walk in your line."}
+- 15:27 act: {"actions":[],"say":"Rocky here. Ada, Leonard, Ernest: I'll walk in your line to the melons at 389,-1156 in daylight. Say when you leave and I'll keep in your sight.","intent":{"goal":"follow_ada_to_m
