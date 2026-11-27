@@ -118,3 +118,34 @@
 - 19:18 act: {"actions":[{"do":"give","to":"ag_brunel_01","item":"jungle_planks","count":2}],"say":"Zeoblue, midday, armed, hunger 20, no food. Brunel, you asked for planks for a sword and you're hungrier than me;
 - 19:18 act: {"say":"Zeoblue: my 2 jungle planks went to Zack by mistake, not Brunel. Zack, if you don't need them, please pass them to Brunel, who asked for planks for a sword. I have nothing else to give."}
 - 19:35 act: {"actions":[{"do":"note","text":"Dawn 1169: standing with the group at the Stores hall, health 20, hunger 20, no food, no planks. Holding still in sight."}],"intent":{"goal":"follow_billy_food_search"
+- 19:35 act: {"say":"Rocky here, dawn, hunger full and armed with my sword. I have no food to share yet. I'm staying in the group's sight and will walk the food search with Seven when the line goes out."}
+- 19:39 act: {"say":"Rocky, midday, armed, hunger 20, no food. I'm joining Han's walk to the chicken near -960,-3008 in the group's sight. Whatever I find goes to the hungriest first."}
+- 19:47 act: {"actions":[{"do":"give","to":"ag_frodo_01","item":"apple","count":1}],"say":"Rocky: Frodo, you asked by name and you are in my reach, so the apple is yours. Standing still in the group's sight tonigh
+- 19:47 act: {"say":"Rocky: my apple went to Tommy by mistake, not Frodo. Tommy, if you are hungrier than Frodo, please share it with him. I have no food left."}
+- 19:51 act: {"say":"Rocky, morning, hunger 20, no food, sword and one stick. I'm at the hall in the group's sight. Anyone with a spare plank for a shelter, say Rocky and I'll come within reach."}
+- 19:55 act: {"say":"Rocky, midday, armed, hunger 20, no food. I'm joining Riker's cow walk south in the group's sight. Hungriest first for any food."}
+- 19:59 act: {"say":"Rocky, dusk, hunger 20, no food, no roof, one stick and a wooden sword. Anne or Earhart, if a plank can spare one, say Rocky and I'll step into your reach."}
+- 20:03 act: {"say":"Rocky, night, hunger 20, no planks, no food. Balboa, I'm standing in your wall group in sight. I'll stay in your reach and keep watch."}
+- 20:07 act: {"intent":{"goal":"follow_balboa_for_food","program":"follow","arguments":{"target":"ag_balboa_01"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits"
+- 20:09 act: {"intent":{"goal":"follow_balboa_search","program":"follow","arguments":{"target":"ag_balboa_01"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{
+- 20:13 act: {"actions":[{"do":"goto","target":"ag_samwise_01"}],"say":"Rocky here, I hold 2 beef that went to me by mistake. Samwise, I'm walking to your reach to give them to you by name."}
+- 20:14 act: {"actions":[{"do":"give","to":"ag_samwise_01","item":"beef","count":2}],"say":"Samwise, Rocky here. Two beef for you, as Gandalf meant. Eat one now."}
+- 20:14 act: {"actions":[{"do":"goto","target":"ag_balboa_01"}],"say":"Rocky, the beef is with Samwise now. I hold 2 jungle planks for Balboa's hall wall. Balboa, I'm walking to your reach."}
+- 20:14 act: {"actions":[{"do":"give","to":"ag_balboa_01","item":"jungle_planks","count":2}],"say":"Balboa, here are 2 jungle planks from Katniss for the hall wall corner. Finish it when you can."}
+- 20:14 act: {"actions":[],"intent":{"goal":"follow_balboa_search","program":"follow","arguments":{"target":"ag_balboa_01"},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed
+- 20:15 act: {"actions":[{"do":"goto","target":"ag_scotty_01"}],"say":"Rocky, midday, armed, hunger 20, no food. Scotty, I'm going to your melon walk in sight. Any melon I find goes to the hungriest first, and I'l
+- 20:19 act: {"actions":[{"do":"goto","target":"ag_samwise_01"}],"say":"Rocky, dusk, armed, hunger 20, no planks, no roof, no bed. Samwise, I'm walking to your reach for planks for a shelter. I'll help build the w
+- 20:19 act: {"actions":[],"say":"Rocky, dusk, armed, hunger 20. Lara, I have 6 dirt for your shelter wall. Step into my reach and say Lara, and I'll give them. Samwise, thank you for the planks."}
+- 20:21 act: {"actions":[{"do":"give","to":"ag_lara_01","item":"dirt","count":6}],"say":"Rocky: Lara, 6 dirt for your shelter wall, as you asked. I'm standing outside in sight."}
+- 20:21 act: {"actions":[],"say":"Rocky: My dirt is gone. My give went to Katniss, not Lara, and I have only a lantern, a stick and a worn sword. Lara, if there is room in your wall, say my name and I'll come in."
+- 20:22 act: {"actions":[{"do":"give","to":"ag_lara_01","item":"dirt","count":1}],"say":"Rocky: Lara, I have 1 dirt left, and it's yours for the wall. I'm staying in sight outside."}
+- 20:32 act: {"actions":[],"say":"Rocky, midday 1172: I hold 1 stick, 1 dirt and 2 rotten flesh. Lara, still outside your wall, in sight. Katniss has sticks for Knope, so my stick stays with me unless someone asks
+- 20:36 act: {"actions":[],"intent":{"goal":"follow_han_for_food","program":"follow","arguments":{"target":"ag_han_01"},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ti
+- 20:38 act: {"actions":[{"do":"goto","target":"ag_lara_01"}],"say":"Rocky: no cow found, Han. Dusk is close, so I'm back at Lara's wall with the group. Lara, I'll hold a wall cell if you name one."}
+- 20:41 act: {"actions":[],"say":"Rocky here at Lara's wall, night, no roof, 1 dirt and a stick. Lara, I can place the dirt in a gap if you name it. Staying in your sight."}
+- 20:44 act: {"actions":[{"do":"goto","target":{"x":-938,"y":78,"z":-3010}},{"do":"place","block":"dirt","at":{"x":-939,"y":79,"z":-3010}}],"say":"Rocky going to the wall to place my dirt at -939,79,-3010 as Lara 
+- 20:44 act: {"actions":[],"say":"Rocky: -939,79,-3010 is already filled, so I'm holding my dirt. Lara, name the next open cell and I'll place it."}
+- 20:50 act: {"actions":[],"say":"Rocky, dawn 1173, hunger 17, no food. MacGyver, I'll walk with you to look for cows and chickens in your sight. Any food goes to the weakest.","intent":{"goal":"follow_macgyver_fo
+- 20:52 act: {"actions":[{"do":"goto","target":{"x":-926,"y":71,"z":-3038}},{"do":"withdraw","at":{"x":-927,"y":71,"z":-3040},"item":"bread","count":2}],"say":"Rocky going to the chest at -927,71,-3040 for bread, 
+- 20:52 act: {"actions":[{"do":"note","text":"Midday 1173: withdrew 2 bread from the Stores chest. Gimli is not in reach, so I hold the bread for the weakest who names themselves."}],"say":"I have 2 bread from the
+- 20:55 act: {"actions":[{"do":"give","to":"ag_zhenghe_01","item":"bread","count":2}],"say":"Zheng He, you named yourself at hunger 16 and you are in my reach. Here is bread for you."}
