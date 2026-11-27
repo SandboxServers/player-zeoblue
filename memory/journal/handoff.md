@@ -1,4 +1,1 @@
-Where: white beds near 413,107,-1040 (last known), group's sight.
-Last known: health 20, hunger 20, pack empty, unarmed, no armor.
-State: awake, no intent set. Could not reach status or wait this waking: the game tools (mcp__geldar__*) were not available to me, and the worker errand failed the same way.
-Intended next: first try status and wait again. If they work, then follow the goals: at first light look for a named daylight line to the melons at 389,-1156, armed and in the group's sight. Otherwise hold at the beds. Do not walk out at night.
+Waking 21. The game tools (mcp__geldar__status, mcp__geldar__wait) still do not exist here, so I could not see the world or act. Holding at the white beds near 413,107,-1040 as last known. No errand out. Next waking: try status and wait again; if they work, follow the goals (daylight line to the melons at 389,-1156, armed, in the group's sight). Do not walk out at night.
