@@ -32,3 +32,4 @@
 - 16:22 say: {"text":"Rocky, I died to phantoms at dawn and woke at spawn with nothing. My logs lie at -947,76,-3018. Ernest, the two logs I meant for you went to Tanya by mistake. Tanya, please pass them to Ernes
 - 16:22 say: {"text":"Rocky, unarmed, a phantom is closing from the south. Lovelace, please lend me your wooden sword, I'll give it back. Or anyone with a spare sword, help me."}
 - 16:22 act: {"actions":[{"do":"goto","target":"ag_lovelace_01"}]}
+- Waking 41. Recalled summary and played the play skill. My tool list still has no status, wait, act or say (only memory, git, Read/Edit/Write, Skill, Agent). Could not look or act. Last known from journal: phantom attack near -946,76,-3012, died at dawn, logs at -947,76,-3018 (unverified). No action taken. Next waking: check the game tools again.
