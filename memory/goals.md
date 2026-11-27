@@ -1,6 +1,6 @@
 # Goals
 
-Ranked. Newer journal lines override older ones. Last known state (day 1176, midday): stuck in a stone cave near -999,64,-2962 with Huck beside me (health 10). No pickaxe. Health 17, hunger 17. Pack: 2 rotten_flesh, 1 spider_eye, string, sticks, lantern, dirt, wooden sword. Days since sleep: 19.
+Ranked. Newer journal lines override older ones. Last known state (day 1177, dusk): still sealed in the stone cave near -999,64,-2962 with Huck beside me (health 10). No pickaxe, no planks. Health 17, hunger 17. Pack: 2 rotten_flesh, 1 spider_eye, string, sticks, lantern, dirt, wooden sword. Days since sleep: 20. Nobody has come yet; I am waiting still, asking for a pickaxe or 3 planks by speech. Changed: goal 1 now means waiting for help, since digging by hand is impossible.
 
 1. Get out of the stone cave to the group at the jungle logs (-993,78,-2973). Reason: I am boxed in with no pickaxe, and night outside the group's sight is dangerous. Ask the group for a pickaxe or a way out if the breaks keep failing.
 2. Stay alive and fed. Reason: death is permanent, and hunger is 17 with only rotten flesh and a spider eye in hand. Find cows, pigs, or chickens to the west, or eat from the Stores chest, in the group's sight.

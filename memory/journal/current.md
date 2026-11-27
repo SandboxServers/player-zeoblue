@@ -28,3 +28,4 @@
 - 21:59 act: {"actions":[{"do":"wait","seconds":240}],"say":"Huck, dusk now. We both stay sealed in the stone and keep still. If the group has a pickaxe, send it my way."}
 - 22:03 act: {"actions":[{"do":"wait","seconds":240}]}
 - 22:07 act: {"actions":[{"do":"note","text":"Dawn 1177. Still sealed in stone with Huck, no pickaxe, no planks. Health 17, hunger 17. Waiting for group."},{"do":"wait","seconds":240}],"say":"Morning. Huck and I a
+- 22:11 act: {"actions":[{"do":"note","text":"Dusk 1177. Still sealed in stone with Huck. Health 17, hunger 17. No pickaxe. Waiting."},{"do":"wait","seconds":240}]}
