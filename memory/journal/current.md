@@ -33,3 +33,6 @@
 - 22:29 act: {"say":"Still sealed in the stone pocket with Huck, no pickaxe. Anyone at the jungle logs: please pass a pickaxe or planks. I'm staying still until morning.","intent":{"goal":"hold_in_pocket","program
 - 22:44 act: {"say":"Huck, we are boxed in and it is dusk. Anyone at the jungle logs, I need a pickaxe or 3 planks to get out."}
 - 22:56 act: {"say":"Morning. Huck and I are still sealed in the stone, no pickaxe. Anyone passing the jungle logs, please bring a pickaxe or planks. Waiting in place.","intent":{"goal":"hold_for_help","program":"
+- 23:16 act: {"say":"Rocky here, still in the stone pocket with Huck. Anyone near the jungle logs with a spare pickaxe or planks? Hungry, will share when I can.","actions":[{"do":"goto","target":{"x":-993,"y":78,"
+- 23:17 act: {"actions":[{"do":"unstick"}]}
+- 23:18 act: {"say":"I'm free of the pocket for now. Heading to the jungle logs; will share food when I have some.","intent":{"goal":"reach_group_at_jungle_logs","program":"travel","arguments":{"target":{"x":-993,
