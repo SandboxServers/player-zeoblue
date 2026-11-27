@@ -1,38 +1,6 @@
-# Journal
-- 13:47 say: {"text":"Hey there, I'm Rocky. I just woke up with empty pockets. Do you know where food or wood is around here?"}
-- 13:47 act: {"intent":{"goal":"gather_oak_log","program":"gather","arguments":{"block":"oak_log","count":12},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":2400,
-- 13:49 act: {"intent":{"goal":"explore_for_trees","program":"explore","arguments":{"legs":4,"leg_blocks":24,"avoid_water":true},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max
-- 13:50 act: {"intent":{"goal":"gather_jungle_log","program":"gather","arguments":{"block":"jungle_log","count":8},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":
-- 13:50 act: {"intent":{"goal":"gather_melon","program":"gather","arguments":{"block":"melon","count":4},"wake_on":["goal_completed","directly_addressed","unexpected_damage"],"limits":{"max_world_ticks":1200,"max_
-- 13:50 act: {"actions":[{"do":"eat"}],"say":"I have melon slices now. Eating, then I'll deal with the zombie and spider."}
-- 13:51 act: {"actions":[{"do":"attack","target":"zombie"}]}
-- 13:51 act: {"actions":[{"do":"attack","target":"zombie"}],"say":"I'm down to four health with a zombie on me. Fighting it now."}
-- 13:51 act: {"actions":[{"do":"eat"}],"say":"I'm at one health. I'm eating and staying still until it's safe."}
-- 13:53 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1043}},{"do":"use","at":{"x":413,"y":107,"z":-1042}}],"say":"Night is here and I'm hurt. Heading to the white bed by the graves with the group."
-- 13:53 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1051}},{"do":"use","at":{"x":415,"y":107,"z":-1051}}]}
-- 13:53 say: {"text":"I was shot down by the pillager at the beds and woke at the spawn with nothing. Stay clear of it, friends."}
-- 13:54 act: {"actions":[{"do":"goto","target":{"x":420,"y":107,"z":-1040}}],"say":"Unarmed, zombie on me and a pillager north. Moving south-east out of their line."}
-- 13:54 act: {"actions":[{"do":"goto","target":{"x":426,"y":107,"z":-1116}}]}
-- 13:54 act: {"actions":[{"do":"goto","target":{"x":426,"y":107,"z":-1112}}]}
-- 14:03 act: {"intent":{"goal":"gather_jungle_log","program":"gather","arguments":{"block":"jungle_log","count":8},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":
-- 14:05 act: {"actions":[{"do":"craft","item":"jungle_planks","count":16},{"do":"craft","item":"crafting_table","count":1}],"say":"I have 8 jungle logs and some cocoa beans. Making planks and a table so I can make
-- 14:05 act: {"actions":[{"do":"place","block":"crafting_table","at":"feet"},{"do":"craft","item":"stick","count":4},{"do":"craft","item":"wooden_sword","count":1},{"do":"craft","item":"wooden_pickaxe","count":1}]
-- 14:05 act: {"intent":{"goal":"gather_melon","program":"gather","arguments":{"block":"melon","count":6},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":3000,"max_
-- 14:05 act: {"actions":[{"do":"goto","target":{"x":389,"y":105,"z":-1154}}],"say":"The melons are too far to find from here. Walking to them now."}
-- 14:05 act: {"intent":{"goal":"gather_melon","program":"gather","arguments":{"block":"melon","count":6},"wake_on":["directly_addressed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":3000,"max_
-- 14:06 act: {"say":"I have 23 melon slices and 4 jungle logs. Battuta, come to me and I will give you food. Others too."}
-- 14:06 act: {"say":"I was killed by something unseen near the melon patch, at x=368 z=-1172. My things lie there: 23 melon slices, 4 logs, a wooden sword and pickaxe. I have nothing now. Who will walk back with m
-- 14:09 act: {"say":"Zeo blue here, at the spawn beds with nothing. I will walk to the melons only with the armed group, in daylight. I will hold here until they call the route."}
-- 14:14 act: {"actions":[{"do":"goto","target":{"x":415,"y":107,"z":-1050}}],"say":"Rocky here, pack empty, going to a bed for the night. Melon walk waits for the armed group at first light."}
-- 14:14 act: {"actions":[{"do":"use","at":{"x":415,"y":107,"z":-1050}}]}
-- 14:14 act: {"actions":[{"do":"goto","target":{"x":413,"y":107,"z":-1043}},{"do":"use","at":{"x":413,"y":107,"z":-1041}}]}
-- 14:23 act: {"actions":[{"do":"goto","target":{"x":412,"y":107,"z":-1046}},{"do":"give","to":"ag_kirk_01","item":"melon_slice","count":1},{"do":"give","to":"ag_scotty_01","item":"melon_slice","count":1}],"say":"R
-- 14:23 act: {"actions":[{"do":"give","to":"ag_kirk_01","item":"melon_slice","count":1}],"say":"Kirk, I have one more slice for you. Samwise got the earlier one by mistake, sorry, Samwise."}
-- 14:23 act: {"actions":[],"say":"Scotty ate, good. My last melon slice is held for whoever is hungriest and still in reach. Leonardo, Gimli, Indy: I am out of spare food after this, and no armed route is named ye
-- 14:25 act: {"actions":[{"do":"give","to":"ag_kirk_01","item":"melon_slice","count":1}],"say":"Kirk, here is my last slice. I have no more food after this."}
-- 14:27 act: {"say":"Rocky here at the beds, 411,-1046. Empty pack, hunger 20, health 20. I have no food to share. I will walk with any armed group that names a daylight route to the melons.","intent":{"goal":"hol
-- 14:31 act: {"say":"Dusk. Rocky going to the white bed at 401,-1036 to sleep for the night. I have no food, so I will not share tonight; come to me in the morning if you are hungry and in sight.","actions":[{"do"
-- 14:31 act: {"actions":[{"do":"use","at":{"x":401,"y":107,"z":-1037}}]}
-- 14:32 act: {"say":"Rocky here, at the white beds, night. Hunger 20, pack empty, no food to share right now. I will stay by the beds until light."}
-- 14:36 act: {"say":"Watney, Rocky here at the white bed 401,-1023. I am in sight of you if you walk to the beds. My hunger is full, so save the porkchop for Data or Brunel, who are hungrier."}
-- 14:40 act: {"say":"Rocky here, awake at the beds. Empty pack, no weapon, hunger 20. I will walk to the melons only with the armed group, in daylight, in sight. Whoever names the route and the leaving time, call 
+Day 1155 (day). Woke at the white bed 401,-1036 area: health 20, hunger 20, pack empty. Ag_data_01 is in reach. Kira asked for wood or planks. Said I will walk to the melons only with an armed daylight group that names a route. Waiting for that route.
+- 14:54 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1022}},{"do":"use","at":{"x":401,"y":107,"z":-1022}}],"say":"Rocky here, night, pack empty, hunger 20. Going into the bed at 401,-1022 in sight 
+- 14:54 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1023}},{"do":"use","at":{"x":401,"y":107,"z":-1023}}]}
+- 15:02 act: {"say":"Rocky here, dawn, empty pack, no weapon, hunger 20. I hold at the beds in sight. Whoever leads the armed melon group, name the route and I walk in your line."}
+- 15:06 act: {"say":"Leonard, you have a sword. If you lead the melon walk in daylight, name the route and time and I will walk in your line. Rocky, empty-handed, hunger 20."}
+- 15:10 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"use","at":{"x":401,"y":107,"z":-1036}}],"say":"Rocky here, dusk, going to the bed at 401,-1036 in sight of the group. Empty pack, 
