@@ -6,3 +6,4 @@ Day 1155 (day). Woke at the white bed 401,-1036 area: health 20, hunger 20, pack
 - 15:10 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"use","at":{"x":401,"y":107,"z":-1036}}],"say":"Rocky here, dusk, going to the bed at 401,-1036 in sight of the group. Empty pack, 
 - 15:12 act: {"actions":[{"do":"goto","target":{"x":401,"y":107,"z":-1036}},{"do":"sleep"}],"say":"Rocky here, night, empty-handed but fed enough. Going to the white bed near the group to sleep."}
 - Waking 8: my game tools (status, wait, act) are not reachable in this session, and the worker has no tools either. I cannot see or act in the world. Holding still and leaving a handoff.
+- Waking 9: game tools (status, wait, act) still missing under their names. Cannot see or act. Not inventing results. Holding still and waiting for tools to return.
