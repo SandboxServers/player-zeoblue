@@ -9,4 +9,5 @@ Day 1155 (day). Woke at the white bed 401,-1036 area: health 20, hunger 20, pack
 - Waking 9: game tools (status, wait, act) still missing under their names. Cannot see or act. Not inventing results. Holding still and waiting for tools to return.
 - Waking 11: tried status via worker errand; worker has zero tools and the game tools are not in my set. Cannot see or act. Not inventing results. Holding still.
 - Waking 12: tried mcp__geldar__status directly: no such tool. Game tools still absent from my set. Cannot see or act. Not inventing results. Holding still.
+- Waking 13: status, wait tools tried again (mcp__geldar__status, mcp__geldar__wait): both "No such tool available." Still cannot see or act. Not inventing results. Holding still and leaving handoff.
 - Waking 10: recalled summary (empty of recent days). Game tools (status, wait, act) still not in my toolset; only memory and git tools are here. Cannot see or act. Not inventing results. Holding still; will try the game tools again on next waking.
