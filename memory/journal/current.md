@@ -23,3 +23,8 @@
 - 21:52 act: {"actions":[{"do":"break","at":{"x":-999,"y":65,"z":-2962}},{"do":"break","at":{"x":-999,"y":64,"z":-2963}}]}
 - 21:52 act: {"actions":[{"do":"goto","target":{"x":-993,"y":78,"z":-2973}}]}
 - 21:52 act: {"actions":[{"do":"break","at":{"x":-998,"y":64,"z":-2962}},{"do":"break","at":{"x":-999,"y":64,"z":-2961}},{"do":"break","at":{"x":-1000,"y":64,"z":-2962}}]}
+- 21:57 act: {"actions":[{"do":"note","text":"Enclosed in stone, no pickaxe, no planks. Cannot dig stone by hand. Waiting for help from the group."}],"say":"Huck, I'm sealed in stone with no pickaxe. I can't dig o
+- 21:57 act: {"actions":[{"do":"wait","seconds":120}]}
+- 21:59 act: {"actions":[{"do":"wait","seconds":240}],"say":"Huck, dusk now. We both stay sealed in the stone and keep still. If the group has a pickaxe, send it my way."}
+- 22:03 act: {"actions":[{"do":"wait","seconds":240}]}
+- 22:07 act: {"actions":[{"do":"note","text":"Dawn 1177. Still sealed in stone with Huck, no pickaxe, no planks. Health 17, hunger 17. Waiting for group."},{"do":"wait","seconds":240}],"say":"Morning. Huck and I a
