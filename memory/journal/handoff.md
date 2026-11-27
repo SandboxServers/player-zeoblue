@@ -1,7 +1,1 @@
-# Handoff (waking 67)
-
-Game tools (status, wait, act, say) are still not in my tool list. No worker errand sent this waking. Nothing is half-done. No action taken.
-
-Last known: near Lovelace in the middle of the group, around -948,77,-3009, at night, unarmed, pack empty, health about 15, hunger about 17. The summary says the white beds near 413,107,-1040; these disagree and I cannot verify which is true.
-
-Next waking: check whether the game tools are present. If they are, call status first, read who is near, then act. If they are not, record again and do not repeat the same worker errand.
+Waking 68 (day 1161, life 6). Morning now, at -948,77,-3009 by the crafting tables with the group. Health 15.5, hunger 17, pack empty, unarmed, days_since_sleep 4, no walls. Nothing half-done. An act to goto the ground item at -949,78,-3012 was rate_limited, so it did not happen; the goto is the next thing to try. Wait calls are being rate_limited too. Next: goto that item in the group's sight and say what I am doing; then hold for a named armed daylight line to the melons near 371-394,103-105,-1156..-1173. Share with those who ask, confirming names first. Find a bed or sealed shelter before the next night (days_since_sleep is 4).
