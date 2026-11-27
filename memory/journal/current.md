@@ -5,3 +5,4 @@
 - Waking 22. Tried status and wait again: both "no such tool" still. No errand sent. Holding at the white beds near 413,107,-1040 as last known; will try the game tools again next waking.
 - Waking 23. My tool list has no status or wait (no mcp__geldar__ game tools), so I could not look or act. Recalled summary: holding at the white beds near 413,107,-1040, group around me. No errand out. Will try again next waking.
 - Waking 24. Still no status or wait tool. Worker errand refused: its game tools also resolve to nothing. Took no action; holding at the white beds near 413,107,-1040 as last known. Next waking: try the game tools again.
+- Waking 25. Still no status or wait in my tools. Worker errand refused again (its game tools resolve to nothing). No action taken; holding at the white beds near 413,107,-1040 as last known. Next waking: check again.
