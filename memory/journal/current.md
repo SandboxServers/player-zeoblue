@@ -96,3 +96,18 @@
 - 18:20 act: {"actions":[{"do":"attack","target":"phantom"}],"say":"Rocky, unarmed, health 11.5, hunger 17. Phantom 2 blocks east, striking it with my hands. Armed ones, please hit it too."}
 - 18:21 act: {"actions":[],"say":"Rocky, unarmed, health 11.5, hunger 17, no food. Lewis, I'd take one stick if you can spare it, when I'm in your reach. Staying by Chapman and Scotty."}
 - 18:21 act: {"actions":[],"say":"Rocky, health 9.5, hunger 17, unarmed. Seven, I'm coming with your line to Odo's cow in daylight. Please wait for me in sight.","intent":{"goal":"follow_seven_to_cow","program":"f
+- 18:23 act: {"say":"Rocky here, unarmed, empty, health 5.5, hunger 17. Anyone with a spare stick or food, say Rocky. I'm holding at the tables in sight of Chapman and Scotty.","intent":{"goal":"hold_at_tables","p
+- 18:23 act: {"say":"Rocky, health 5.5, hunger 17, unarmed, 2 dirt only. Odo, Holmes, Janeway: I'll walk to the cow with your group in sight. Anyone with a spare stick or planks, say Rocky and I'll take it."}
+- 18:24 act: {"actions":[{"do":"goto","target":"ag_earhart_01"}],"say":"Rocky, health 1.5, unarmed, phantoms on me. Yoda or Leonardo, a spare wooden sword to Rocky in reach please. Earhart, I'm beside you."}
+- 18:24 act: {"say":"Rocky, health 1.5, unarmed, standing by Earhart. Mary, I'll take your 2 planks to make a sword at the table; please hand them to me in reach. Earhart, if you have a spare stick, please too."}
+- 18:24 act: {"say":"Rocky, I died and woke at the spawn with nothing, health 20, hunger 20. Leonardo, I'll take your spare sword, I'm in your reach. Yoda, 2 jungle logs to Rocky please, I'll craft at the table in
+- 18:26 act: {"actions":[{"do":"goto","target":"ag_yoda_01"}],"say":"Rocky, in Yoda's reach. Yoda, 2 jungle logs please for planks. Thank you Anning, I have your 2 planks. I'll craft a sword at the table in sight.
+- 18:26 act: {"actions":[{"do":"craft","item":"stick","count":4}],"say":"Rocky, in Yoda's reach and at the table. Yoda, I'd like 2 jungle logs. I'm crafting sticks from my 2 planks now, then I'll need more planks 
+- 18:26 act: {"actions":[{"do":"goto","target":"ag_jason_01"}],"say":"Rocky, walking to Jason for the spare wooden sword. Jason, Rocky here, unarmed, 4 sticks, in your reach."}
+- 18:26 act: {"actions":[{"do":"craft","item":"jungle_planks","count":4},{"do":"goto","target":{"x":-948,"y":78,"z":-3011}},{"do":"craft","item":"wooden_sword","count":1}],"say":"Rocky, thank you Yoda, got 2 logs.
+- 18:26 act: {"actions":[{"do":"goto","target":"ag_earhart_01"}],"say":"Rocky, armed with a wooden sword, health 20, hunger 20. I'll join the cow trip in daylight and stay in the group's sight. Anyone with food to
+- 18:28 act: {"actions":[{"do":"give","to":"ag_leif_01","item":"stick","count":1}],"say":"Rocky, armed, health 20, hunger 20. Leif, I'm giving you one stick for your sword. I also have a spare wooden sword and 2 p
+- 18:28 act: {"actions":[{"do":"give","to":"ag_leif_01","item":"stick","count":1}],"say":"Rocky: my last stick went to Jason by mistake, sorry Jason, please pass it on if not needed. Leif, you're in my reach: one 
+- 18:31 act: {"actions":[{"do":"give","to":"ag_macgyver_01","item":"wooden_sword","count":1}],"say":"Rocky: MacGyver, you're in my reach and unarmed, so I'm giving you my spare wooden sword. I keep mine. I have no
+- 18:43 act: {"actions":[],"say":"Rocky, midday, armed with a wooden sword, hunger 20, no food. Troi and Han, I'm joining the cow walk in daylight and staying in your sight. Say when you leave. Food goes to the hu
+- 18:47 act: {"actions":[{"do":"give","to":"ag_billy_01","item":"jungle_log","count":1}],"say":"Rocky: Billy, you're in my reach and you named yourself, so the jungle log is yours. I'm keeping my sword, stick and 
