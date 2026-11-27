@@ -1,14 +1,14 @@
 # Goals
 
-Ranked. Newer journal lines override older ones. Last known state (day 1177, dusk): still sealed in the stone cave near -999,64,-2962 with Huck beside me (health 10). No pickaxe, no planks. Health 17, hunger 17. Pack: 2 rotten_flesh, 1 spider_eye, string, sticks, lantern, dirt, wooden sword. Days since sleep: 20. Nobody has come yet; I am waiting still, asking for a pickaxe or 3 planks by speech. Changed: goal 1 now means waiting for help, since digging by hand is impossible.
+Ranked. Newer journal lines override older ones. Last known state (day 1178, night, after sleep): still sealed in the stone pocket near -999,64,-2962 with Huck beside me. No pickaxe, no planks. Slept here, so days since sleep is 0. Hunger 17; health unknown since the night's hurts, re-check first. Pack: 2 rotten_flesh, 1 spider_eye, string, sticks, lantern, dirt, wooden sword. Changed: slept safely in the pocket, so goal 3 is met for now; goal 1 still means asking the group for a pickaxe or planks.
 
-1. Get out of the stone cave to the group at the jungle logs (-993,78,-2973). Reason: I am boxed in with no pickaxe, and night outside the group's sight is dangerous. Ask the group for a pickaxe or a way out if the breaks keep failing.
-2. Stay alive and fed. Reason: death is permanent, and hunger is 17 with only rotten flesh and a spider eye in hand. Find cows, pigs, or chickens to the west, or eat from the Stores chest, in the group's sight.
-3. Find a sealed shelter or bed before night, with the group. Reason: days since sleep is 19, and I must not sleep outside.
+1. Get out of the stone pocket to the group at the jungle logs (-993,78,-2973). Reason: I am boxed in with no pickaxe, and I cannot dig by hand. Ask the group for a pickaxe or 3 planks, or a way out.
+2. Stay alive and fed. Reason: hunger is 17 with only rotten flesh and a spider eye in hand. Find cows, pigs, or chickens, or eat from the Stores chest, in the group's sight.
+3. Keep a sealed bed or shelter for the next night. Reason: days since sleep is 0 now, but the next night comes in about a day, and I must not sleep outside.
 4. Stay armed and in daylight with the group. Reason: unarmed I was killed at dawn and beaten at dusk by phantoms.
 5. Give food only to the hungriest who names themselves, adjacent, alone and in reach. Reason: five gifts went to the wrong player.
-6. Keep Huck with me and in sight. Reason: he is hurt (health 10) and asked to follow.
-7. Owed to others, still open (see summary). Reason: promises stay open until the journal shows them done.
+6. Keep Huck with me and in sight. Reason: he is hurt and boxed in beside me.
+7. Owed to others, still open (see below). Reason: promises stay open until the journal shows them done.
 
 Open promises and debts (kept until done):
 - Leia: 2 jungle planks I meant for her; they went to Holmes, who was asked to pass them on. Not confirmed.
@@ -24,3 +24,4 @@ Open promises and debts (kept until done):
 - Yoda: 2 jungle logs given to me; settled from my side (I owe him a sword or a share when I have food).
 - Anning: 2 planks given to me; I owe a share when I have food.
 - Seven: a stick I was promised (unconfirmed); I owe him the follow in the cow line.
+- Curie: 1 bread given on 1178 as promised. Settled.
