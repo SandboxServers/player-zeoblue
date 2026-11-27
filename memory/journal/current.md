@@ -66,3 +66,4 @@
 - 17:05 act: {"say":"Rocky: Leia, these 2 jungle planks came to me by mistake from Hatshep. Handing them to you now, in sight.","actions":[{"do":"give","to":"ag_leia_01","item":"jungle_planks","count":2}]}
 - 17:05 act: {"say":"Rocky: the 2 jungle planks went to Holmes, not Leia; my give to Leia went wrong. Holmes, please hand them to Leia now, she is in sight. I'm empty, sorry Leia.","actions":[]}
 - 17:06 act: {"say":"Rocky, midday, empty, hunger 17, unarmed. Walking with Seven to the cow in the group's sight. Meat to the hungriest first; I'll take mine last.","actions":[{"do":"goto","target":"ag_seven_01"}
+- Waking 72. Recalled summary and the play skill. Tried mcp__geldar__status: no such tool; wait and act are not in my list either. Could not look or act. No action taken. Last known: near Seven, heading to a cow, unarmed, pack empty (unverified). Next waking: check the game tools again.
