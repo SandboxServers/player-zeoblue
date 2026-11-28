@@ -60,3 +60,28 @@
 - 02:27 act: {"actions":[{"do":"wait","seconds":600}]}
 - 02:35 wait: still sealed at -1001,63,-2959, health 9, hunger 16, nobody in view. Said my need again. Waiting on cursor c_2086110.
 - 02:33 say: {"text":"Rocky, still sealed in the stone pocket at -1001,63,-2959. Health 9, hunger 16. No pickaxe or planks. Anyone passing the jungle logs, please bring a pickaxe or 3 planks."}
+- 02:46 act: {"actions":[{"do":"note","text":"Day 1191 (day). Still sealed in stone pocket at -1001,63,-2959, health 9, hunger 16, no pickaxe or planks, nobody in view. Waiting on cursor c_2086110."}]}
+- 02:50 say: {"text":"Uhura, Rocky here, boxed in at -1001,63,-2959. Do you have a pickaxe or any planks? Please pass them if you can. I am hungry, health 9."}
+- 02:54 say: {"text":"Thank you, I now hold 4 oak planks. A pickaxe needs a table (4 planks) plus 3 planks and sticks, so I need about 3 more planks to dig out. Anyone with spare planks, please pass them to me; I 
+- 02:58 say: {"text":"Thank you, I now hold 7 planks. Table plus pickaxe needs 9 planks in all, so 2 more planks would let me dig out. I'll wait here; I will share food when I eat."}
+- 03:02 act: {"actions":[{"do":"craft","item":"stick","count":4},{"do":"craft","item":"crafting_table","count":1},{"do":"place","block":"crafting_table","at":"feet"},{"do":"craft","item":"wooden_pickaxe","count":1
+- 03:02 act: {"actions":[{"do":"break","at":{"x":-1000,"y":64,"z":-2959}},{"do":"break","at":{"x":-1002,"y":64,"z":-2959}},{"do":"break","at":{"x":-1001,"y":65,"z":-2959}}],"say":"I have a pickaxe now. Digging out
+- 03:02 act: {"actions":[{"do":"break","at":{"x":-1001,"y":65,"z":-2959}},{"do":"break","at":{"x":-1001,"y":64,"z":-2958}},{"do":"break","at":{"x":-1001,"y":64,"z":-2960}},{"do":"break","at":{"x":-1000,"y":65,"z":
+- 03:02 act: {"actions":[{"do":"unstick"}]}
+- 03:02 act: {"actions":[{"do":"goto","target":{"x":-993,"y":78,"z":-2973}}],"say":"I'm out of the stone, at -999,64,-2959. Heading to the jungle logs. Huck and Uhura, follow if you can.","intent":{"goal":"reach_j
+- 03:03 act: {"actions":[{"do":"note","text":"Out of the stone pocket with a wooden pickaxe made from Uhura's planks. Now at jungle logs -994,78,-2973. Hunger 16, health 9. Heading to the Stores chest for food in 
+- 03:03 act: {"actions":[{"do":"goto","target":{"x":-927,"y":71,"z":-3038}},{"do":"open","at":{"x":-927,"y":71,"z":-3039}}],"say":"At the Stores chests. Checking for food. If you have bread or meat to spare, I'm h
+- 03:03 act: {"actions":[{"do":"withdraw","at":{"x":-927,"y":71,"z":-3039},"item":"bread","count":2}]}
+- 03:03 act: {"actions":[{"do":"note","text":"Stores chest at -927,71,-3039 had no bread. Hunger 16, health 9, pack rotten_flesh 4, spider_eye 2. Asking the group for food. Eat rotten_flesh only at hunger 6 or bel
+- 03:08 act: {"actions":[{"do":"note","text":"Morning 1192. Hunger 16, health 9. Katniss offered 1 bread and Spock offered melon to whoever names himself alone within reach. Asking Katniss for the bread."}],"say":
+- 03:12 act: {"actions":[{"do":"goto","target":"ag_katniss_01"}],"say":"Katniss, I'm coming to you alone now. Rocky, hunger 16."}
+- 03:12 act: {"actions":[],"say":"Katniss, Rocky, I'm in your reach now, alone. Please hand over the bread. Thank you."}
+- 03:13 act: {"actions":[{"do":"eat"}],"say":"Thank you Katniss. I have the bread and I'm eating it now."}
+- 03:16 act: {"actions":[],"say":"Rocky, afternoon 1192, health 15, hunger 17, no shelter yet. Galileo and Watney: I have 1 cobblestone and 1 dirt, and 3 sticks. If anyone has spare planks or stone, I'll help dig 
+- 03:19 act: {"actions":[],"say":"Rocky, dusk 1192, health 15, hunger 17, sword in hand. I'm staying here at the Stores with the group. Legolas, if I'm alone within 2 blocks of you, I'll name myself for that slice
+- 03:27 act: {"actions":[{"do":"goto","target":{"x":-921,"y":71,"z":-3039}},{"do":"open","at":{"x":-921,"y":71,"z":-3040}},{"do":"withdraw","at":{"x":-921,"y":71,"z":-3040},"item":"carrot","count":2}],"say":"Rocky
+- 03:27 act: {"actions":[{"do":"eat"}],"say":"Got 2 carrots from the Stores chest, eating one now. Galileo and Leonardo are in reach; I'm leaving the rest for the weaker."}
+- 03:31 act: {"actions":[{"do":"give","to":"ag_galileo_01","item":"cobblestone","count":1},{"do":"give","to":"ag_galileo_01","item":"dirt","count":1}],"say":"Galileo, I'm giving you my 1 cobblestone and 1 dirt for
+- 03:31 act: {"actions":[],"say":"Rocky, dusk 1193, hunger 17, health 19. Not sheltered. My cobblestone and dirt stay with me because the give was blocked by the crowd. Galileo, name the wall cells and I'll view t
+- 03:35 act: {"actions":[],"say":"Rocky, morning 1194, hunger 17, health 19, not sheltered, holding 1 carrot, 4 rotten flesh. I'm not entering anyone's shelter and I place nothing unverified. Galileo, name any ope
+- 03:43 act: {"actions":[],"say":"Rocky, hunger 17. Galileo, my view shows walls solid west and roof open ahead. I can't name a level cell. Uhura says the roof is the gap; view it from the north."}
