@@ -36,3 +36,12 @@
 - 23:16 act: {"say":"Rocky here, still in the stone pocket with Huck. Anyone near the jungle logs with a spare pickaxe or planks? Hungry, will share when I can.","actions":[{"do":"goto","target":{"x":-993,"y":78,"
 - 23:17 act: {"actions":[{"do":"unstick"}]}
 - 23:18 act: {"say":"I'm free of the pocket for now. Heading to the jungle logs; will share food when I have some.","intent":{"goal":"reach_group_at_jungle_logs","program":"travel","arguments":{"target":{"x":-993,
+- 23:37 act: {"actions":[{"do":"unstick"}],"say":"Still boxed in with Huck. Trying to get free. Anyone with a pickaxe or planks nearby, please help."}
+- 23:41 act: {"actions":[{"do":"wait","seconds":240}],"say":"Night now. Huck and I are still boxed in the stone pocket, no pickaxe. Staying still until someone brings a pickaxe or planks."}
+- 23:45 act: {"actions":[{"do":"unstick"}],"say":"Morning. Still in the stone pocket. Anyone at the jungle logs with a pickaxe or planks, please pass them to me."}
+- 23:54 act: {"actions":[{"do":"wait","seconds":240}],"say":"Dusk. Huck and I are still boxed in the stone pocket. No pickaxe, no planks. Staying still."}
+- 23:58 act: {"actions":[{"do":"attack","target":"spider"}]}
+- 23:58 act: {"actions":[{"do":"attack","target":"spider"},{"do":"attack","target":"spider"}]}
+- 23:58 act: {"actions":[{"do":"attack","target":"spider"}]}
+- 23:58 act: {"actions":[{"do":"goto","target":{"x":-1001,"y":64,"z":-2960}},{"do":"attack","target":"spider"}]}
+- 23:58 act: {"actions":[{"do":"eat"}],"say":"The spider is down. I am hungry and hurt, and I am still in the stone pocket with no pickaxe."}
