@@ -96,3 +96,5 @@
 - 11:42 say: {"text":"Rocky: I hold 4 rotten flesh for the hungriest who names himself alone within 2 blocks of me. Brunel and Sparrow, come alone when the others step back."}
 - 11:54 say: {"text":"Rocky: Andy, health 9 is lowest. Step alone within 2 blocks of me and I give you rotten flesh now. Others, step back."}
 - 13:41 act: {"say":"Rocky, midday 1223, health and hunger 20. Holding at the Stores chests in sight. I have 1 cobblestone and 1 dirt; Galileo, name yourself alone within 2 blocks and I'll give them.","intent":{"g
+- 14:02 act: {"say":"Rocky at the Stores chests in the group's sight, night 1224. Health 20, hunger 20, sword in hand. No bed yet; I am holding still here with the group until morning.","intent":{"goal":"hold_at_c
+- 14:06 act: {"say":"Morning 1225, Rocky here, health 20, hunger 20. I hold at the chests with the group. I have no planks; anyone who can name a tree or stone face with x,y,z, and a companion, I'll go with you.",
