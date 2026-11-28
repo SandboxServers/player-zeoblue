@@ -102,3 +102,5 @@
 - 14:51 say: {"text":"Rocky, dusk 1227, health 20, hunger 20, sword in hand. Holding at the Stores chests in group sight through the night. No bed yet."}
 - 15:48 act: {"say":"Zeoblue, midday 1230, health 20, hunger 20, armed with a wooden sword. Walking the named leg to the bed row at -944,73,-3058 in daylight, in Trini's and Jason's sight, placing nothing.","inten
 - 15:48 act: {"say":"Zeoblue at the bed row, -945,73,-3058, in company with Trini, Jason and Billy. Health 20, hunger 20. Placing nothing until two viewers confirm a cell."}
+- 16:42 say: {"text":"Rocky here, health 20, fed. Holding at the bed row with you all, armed. I have not seen Kimberly either."}
+- 16:46 act: {"actions":[{"do":"use","at":{"x":-945,"y":73,"z":-3059}}],"say":"Dusk is coming, so I am taking the bed right beside me, with the group around."}
