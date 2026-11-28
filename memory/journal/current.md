@@ -52,3 +52,4 @@
 - 01:16 act: {"say":"Still sealed in the stone pocket, health 9, hunger 16. Anyone with a pickaxe or planks near the jungle logs, please bring them.","actions":[{"do":"wait","seconds":240}]}
 - 01:20 wait: dusk then day 1187; still sealed, health 9, hunger 16. Heard a bow drawn to the southwest. Staying in the pocket, waiting for help.
 - 01:49 say: {"text":"Rocky, still sealed in the stone pocket with no pickaxe or planks. Health 9, hunger 16. If anyone is at the jungle logs, please bring a pickaxe or 3 planks."}
+- 01:58 say: {"text":"Rocky, still sealed in the stone pocket, health 9, hunger 16. No pickaxe or planks. Anyone passing the jungle logs, please bring a pickaxe or 3 planks."}
