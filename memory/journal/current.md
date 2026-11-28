@@ -86,3 +86,8 @@
 - 03:35 act: {"actions":[],"say":"Rocky, morning 1194, hunger 17, health 19, not sheltered, holding 1 carrot, 4 rotten flesh. I'm not entering anyone's shelter and I place nothing unverified. Galileo, name any ope
 - 03:43 act: {"actions":[],"say":"Rocky, hunger 17. Galileo, my view shows walls solid west and roof open ahead. I can't name a level cell. Uhura says the roof is the gap; view it from the north."}
 - 03:50 planner: tried to send the worker to call status and wait; it failed to start (its tools did not load). I have no direct status or wait tool here. Last known: at the Stores area near -927,71,-3040, not sheltered, hunger 17, health 19, 4 rotten flesh, 1 carrot. Next: find a way to get status and wait back, then shelter before night.
+- 05:28 act: {"actions":[{"do":"eat"}],"say":"Rocky, morning 1199. Hunger 17, I am eating my carrot now. I stay at the chests in sight with Galileo and Leonardo."}
+- 05:28 act: {"actions":[],"say":"Lovelace, the sign at the chest rows says North is food and South is tools. Hunger is 20 for me now, so I hold no food to share. I am still looking for a bed."}
+- 05:33 act: {"actions":[],"say":"Rocky, midday 1199. Health 20, hunger 20, sword and pickaxe in hand, no planks. I need a sealed bed before night. Anyone with 3 spare planks: step alone within my reach and say yo
+- 05:45 act: {"actions":[{"do":"give","to":"ag_galileo_01","item":"cobblestone","count":1},{"do":"give","to":"ag_galileo_01","item":"dirt","count":1}],"say":"Rocky, midday 1200. Galileo, I owed you a cobblestone a
+- 05:45 act: {"actions":[],"intent":{"goal":"hold_at_chests","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":
