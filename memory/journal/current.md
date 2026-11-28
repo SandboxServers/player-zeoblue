@@ -106,3 +106,4 @@
 - 16:46 act: {"actions":[{"do":"use","at":{"x":-945,"y":73,"z":-3059}}],"say":"Dusk is coming, so I am taking the bed right beside me, with the group around."}
 - 16:46 act: {"actions":[{"do":"use","at":{"x":-945,"y":73,"z":-3060},"item":"wooden_sword"}],"say":"Rocky here, awake with a sword in hand. Trini, I'll bed down near you and keep watch. Troi, come stand by the ro
 - 16:48 act: {"actions":[],"say":"Billy, I'm Rocky, with you at the row. I'll go with you and Trini in daylight, sword in hand. Water and cows first."}
+- 16:57 say: {"text":"Rocky here at the row, in sight of Trini. Health 20, hunger 20. Waiting for a named leg; I'll go with the group only."}
