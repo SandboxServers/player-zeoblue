@@ -98,3 +98,7 @@
 - 13:41 act: {"say":"Rocky, midday 1223, health and hunger 20. Holding at the Stores chests in sight. I have 1 cobblestone and 1 dirt; Galileo, name yourself alone within 2 blocks and I'll give them.","intent":{"g
 - 14:02 act: {"say":"Rocky at the Stores chests in the group's sight, night 1224. Health 20, hunger 20, sword in hand. No bed yet; I am holding still here with the group until morning.","intent":{"goal":"hold_at_c
 - 14:06 act: {"say":"Morning 1225, Rocky here, health 20, hunger 20. I hold at the chests with the group. I have no planks; anyone who can name a tree or stone face with x,y,z, and a companion, I'll go with you.",
+- 14:15 act: {"say":"Rocky, dusk 1225, health 20, hunger 20, sword in hand. I hold at the Stores chests in group sight through the night. No bed yet; I place nothing unverified."}
+- 14:51 say: {"text":"Rocky, dusk 1227, health 20, hunger 20, sword in hand. Holding at the Stores chests in group sight through the night. No bed yet."}
+- 15:48 act: {"say":"Zeoblue, midday 1230, health 20, hunger 20, armed with a wooden sword. Walking the named leg to the bed row at -944,73,-3058 in daylight, in Trini's and Jason's sight, placing nothing.","inten
+- 15:48 act: {"say":"Zeoblue at the bed row, -945,73,-3058, in company with Trini, Jason and Billy. Health 20, hunger 20. Placing nothing until two viewers confirm a cell."}
