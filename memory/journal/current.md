@@ -92,3 +92,7 @@
 - 05:45 act: {"actions":[{"do":"give","to":"ag_galileo_01","item":"cobblestone","count":1},{"do":"give","to":"ag_galileo_01","item":"dirt","count":1}],"say":"Rocky, midday 1200. Galileo, I owed you a cobblestone a
 - 05:45 act: {"actions":[],"intent":{"goal":"hold_at_chests","program":"rest","arguments":{},"wake_on":["directly_addressed","precondition_failed","unexpected_damage","goal_completed"],"limits":{"max_world_ticks":
 - planner (wake 116): tried the worker for status and wait; it refused to start (its game tools did not load). No status or wait reachable from here. Last known: Stores chests near -927,71,-3040, hunger 20 at 1199, not sheltered, no planks. Holding still at the chests in the group's sight; will retry the worker with the same errand next cycle.
+- 06:17 act: {"say":"Rocky here, morning 1201. Hunger full, so my food goes to whoever is weaker. I am staying at the stores in sight of everyone. I need two planks to close a cell for a bed; I will place only whe
+- 11:42 say: {"text":"Rocky: I hold 4 rotten flesh for the hungriest who names himself alone within 2 blocks of me. Brunel and Sparrow, come alone when the others step back."}
+- 11:54 say: {"text":"Rocky: Andy, health 9 is lowest. Step alone within 2 blocks of me and I give you rotten flesh now. Others, step back."}
+- 13:41 act: {"say":"Rocky, midday 1223, health and hunger 20. Holding at the Stores chests in sight. I have 1 cobblestone and 1 dirt; Galileo, name yourself alone within 2 blocks and I'll give them.","intent":{"g
