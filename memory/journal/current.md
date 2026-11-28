@@ -104,3 +104,5 @@
 - 15:48 act: {"say":"Zeoblue at the bed row, -945,73,-3058, in company with Trini, Jason and Billy. Health 20, hunger 20. Placing nothing until two viewers confirm a cell."}
 - 16:42 say: {"text":"Rocky here, health 20, fed. Holding at the bed row with you all, armed. I have not seen Kimberly either."}
 - 16:46 act: {"actions":[{"do":"use","at":{"x":-945,"y":73,"z":-3059}}],"say":"Dusk is coming, so I am taking the bed right beside me, with the group around."}
+- 16:46 act: {"actions":[{"do":"use","at":{"x":-945,"y":73,"z":-3060},"item":"wooden_sword"}],"say":"Rocky here, awake with a sword in hand. Trini, I'll bed down near you and keep watch. Troi, come stand by the ro
+- 16:48 act: {"actions":[],"say":"Billy, I'm Rocky, with you at the row. I'll go with you and Trini in daylight, sword in hand. Water and cows first."}
