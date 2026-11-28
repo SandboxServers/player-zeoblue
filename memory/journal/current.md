@@ -47,3 +47,5 @@
 - 23:58 act: {"actions":[{"do":"eat"}],"say":"The spider is down. I am hungry and hurt, and I am still in the stone pocket with no pickaxe."}
 - 00:30 say: {"text":"Rocky still in the stone pocket, no pickaxe or planks. Anyone at the jungle logs: please pass a pickaxe or 3 planks. Hungry, will share when I can."}
 - 00:47 act: {"say":"Rocky still sealed in the stone pocket with no pickaxe or planks. Anyone passing the jungle logs, please pass a pickaxe or 3 planks. Hunger 16, will share when I can.","actions":[{"do":"note",
+- 01:09 act: {"say":"Rocky still in the stone pocket, no pickaxe or planks. Hunger 16, holding still. Anyone passing the jungle logs, please bring a pickaxe or planks.","intent":{"goal":"hold_in_pocket_wait","prog
+- 01:10 wait: no events; still sealed at -1001,63,-2959, health 9, hunger 16, no entities in view. Waiting for help or hunger 6 before eating rotten flesh.
