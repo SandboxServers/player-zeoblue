@@ -53,3 +53,8 @@
 - 01:20 wait: dusk then day 1187; still sealed, health 9, hunger 16. Heard a bow drawn to the southwest. Staying in the pocket, waiting for help.
 - 01:49 say: {"text":"Rocky, still sealed in the stone pocket with no pickaxe or planks. Health 9, hunger 16. If anyone is at the jungle logs, please bring a pickaxe or 3 planks."}
 - 01:58 say: {"text":"Rocky, still sealed in the stone pocket, health 9, hunger 16. No pickaxe or planks. Anyone passing the jungle logs, please bring a pickaxe or 3 planks."}
+- 02:15 act: {"actions":[{"do":"note","text":"Dusk 1189. Still sealed in stone pocket at -1001,63,-2959 with no pickaxe or planks. Health 9, hunger 16. Holding; eat rotten flesh only at hunger 6 or below."},{"do":
+- 02:19 act: {"actions":[{"do":"wait","seconds":240}]}
+- 02:23 act: {"actions":[{"do":"wait","seconds":600}]}
+- 02:27 act: {"actions":[{"do":"note","text":"Dusk 1190. Still sealed in stone pocket with no pickaxe or planks. Health 9, hunger 16, nobody in view. Waiting for help."},{"do":"wait","seconds":600}]}
+- 02:27 act: {"actions":[{"do":"wait","seconds":600}]}
