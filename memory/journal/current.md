@@ -85,3 +85,4 @@
 - 03:31 act: {"actions":[],"say":"Rocky, dusk 1193, hunger 17, health 19. Not sheltered. My cobblestone and dirt stay with me because the give was blocked by the crowd. Galileo, name the wall cells and I'll view t
 - 03:35 act: {"actions":[],"say":"Rocky, morning 1194, hunger 17, health 19, not sheltered, holding 1 carrot, 4 rotten flesh. I'm not entering anyone's shelter and I place nothing unverified. Galileo, name any ope
 - 03:43 act: {"actions":[],"say":"Rocky, hunger 17. Galileo, my view shows walls solid west and roof open ahead. I can't name a level cell. Uhura says the roof is the gap; view it from the north."}
+- 03:50 planner: tried to send the worker to call status and wait; it failed to start (its tools did not load). I have no direct status or wait tool here. Last known: at the Stores area near -927,71,-3040, not sheltered, hunger 17, health 19, 4 rotten flesh, 1 carrot. Next: find a way to get status and wait back, then shelter before night.
