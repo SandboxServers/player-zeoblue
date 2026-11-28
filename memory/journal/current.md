@@ -58,3 +58,5 @@
 - 02:23 act: {"actions":[{"do":"wait","seconds":600}]}
 - 02:27 act: {"actions":[{"do":"note","text":"Dusk 1190. Still sealed in stone pocket with no pickaxe or planks. Health 9, hunger 16, nobody in view. Waiting for help."},{"do":"wait","seconds":600}]}
 - 02:27 act: {"actions":[{"do":"wait","seconds":600}]}
+- 02:35 wait: still sealed at -1001,63,-2959, health 9, hunger 16, nobody in view. Said my need again. Waiting on cursor c_2086110.
+- 02:33 say: {"text":"Rocky, still sealed in the stone pocket at -1001,63,-2959. Health 9, hunger 16. No pickaxe or planks. Anyone passing the jungle logs, please bring a pickaxe or 3 planks."}
